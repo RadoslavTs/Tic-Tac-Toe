@@ -1,2 +1,4 @@
-# Tic-Tac-Toe
-Basic console Tic-Tac-Toe game
+# Basic console Tic Tac Toe game.
+
+
+Created by Lord Radoslav Tsepenishev
