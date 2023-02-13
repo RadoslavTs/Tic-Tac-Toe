@@ -3,4 +3,4 @@
 
 Created by Lord Radoslav Tsepenishev
 
-![ScreenShot](snapshot.png)
+![ScreenShot](Capture.png)
